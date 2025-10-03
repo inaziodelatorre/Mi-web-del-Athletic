@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(249, 86, 86); 
+    
+    
+    padding: 16px;
+}
+hl{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: size 42px;
+
+}
+
+.rojo {
+    background-color: rgb(255, 100, 10);
+}
+.blanco {
+    background-color: rgb(255, 255, 255);
+}
+.imagen_perfil {
+width: 200px;
+height :200px;
+border-radius:50%;
+
+}
